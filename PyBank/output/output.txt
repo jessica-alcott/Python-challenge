@@ -1,0 +1,7 @@
+Financial Analysis
+ ----------------------------
+Total number of months:  +str(len(month))
+Total: $ (total_revenue)
+Average Change: $ +str(monthly_change)
+Greatest Increase: $ +str(profit_increase)
+Greatest Decrease: $ +str(profit_decrease)
